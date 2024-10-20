@@ -1,3 +1,4 @@
 {
-  "origins": ["https://blog.chn.moe"]
+  "origins": ["https://blog.chn.moe"],
+  "originsRegex": ["http://127.0.0.1:[0-9]+", "http://localhost:[0-9]+"]
 }
